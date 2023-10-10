@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "../styles/UserProfile.css";
+import styles from "../styles/userprofile.css";
 import BackIcon from '../assets/back.png';
 import BeeCut from '../assets/bee-cut.png';
 import Logo from "../assets/logo.png";
